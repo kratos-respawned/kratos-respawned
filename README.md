@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kratos1710
 - 👀 I’m interested in coding , android development , linux , computational photography and similar stuff
-- 🌱 I’m currently learning basic linux ( how to use termux actually )
+- 🌱 I’m currently learning web development,linux,C++ DSA ;
 - 💞️ I’m looking to collaborate on ...(haven't decided yet lol)
 - 📫 You can meet me on Instagram : @bhandari_ji17 and TELEGRAM : t.me/bhandariji17
 

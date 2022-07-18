@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kratos1710
-- 👀 I’m interested in coding , android rom development , linux , OS and kernel , computational photography/Image processing (GCam) and similar stuff
+- 👀 I’m interested in web development , android rom development , linux , OS and kernel , computational photography/Image processing (GCam) and similar stuff
 - 🌱 I’m currently learning web development,bash scripting,C++ DSA ;
 - 💞️ I’m looking to collaborate on ...(haven't decided yet lol)
 - 📫 You can meet me on LinkedIn : www.linkedin.com/in/kratos1710 Instagram : kratos_respawned and TELEGRAM : www.t.me/bhandariji17 

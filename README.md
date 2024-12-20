@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">I'm a web developer with a passion for building beautiful and functional web applications. I am proficient in a variety of technologies, including Next.js, React, TypeScript, and Django.</h3>
+<h3 align="center">I'm a web developer with a passion for building beautiful and functional web applications. I am proficient in a variety of technologies, including Next.js, React, React Native and TypeScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kratos-respawned&label=Profile%20views&color=0e75b6&style=flat" alt="kratos-respawned" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kratos-respawned" alt="kratos-respawned" /></a> </p>
 
-- 👀 I’m interested in **Full stack development , Cross Platform(React-Native) , Cloud , OS , computational photography/Image processing**
+- 👀 I’m interested in **Full stack development , Cross Platform(React-Native) , Cloud , computational photography/Image processing**
 
 - 🌱 I’m currently learning **Mobile Development**
 

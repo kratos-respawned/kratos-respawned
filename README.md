@@ -1,27 +1,63 @@
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">I'm a web developer with a passion for building beautiful and functional web applications. I am proficient in a variety of technologies, including Next.js, React, React Native and TypeScript.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kratos-respawned&label=Profile%20views&color=0e75b6&style=flat" alt="kratos-respawned" /> </p>
+# Gaurav Bhandari
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kratos-respawned" alt="kratos-respawned" /></a> </p>
+Software engineer at PagarBook. After hours I write small, fast native apps for my Mac and raise a language model from scratch.
 
-- 👀 I’m interested in **Full stack development , Cross Platform(React-Native) , Cloud , computational photography/Image processing**
+<a href="https://x.com/kratosRespawned"><img src="https://img.shields.io/badge/X-@kratosRespawned-000000?logo=x&logoColor=white" alt="X"></a>
+<a href="mailto:sbhandari1907@protonmail.com"><img src="https://img.shields.io/badge/Email-sbhandari1907@protonmail.com-6D4AFF?logo=protonmail&logoColor=white" alt="Email"></a>
 
-- 🌱 I’m currently learning **Mobile Development**
+</div>
 
-- 💬 Ask me about **React, NextJS, Typescript/Javascript**
+## What I'm building
 
-- 📫 How to reach me **sbhandari1907@protonmail.com || https://x.com/kratosRespawned**
+<table>
+<tr>
+<td width="110" align="center"><a href="https://github.com/kratos-respawned/hop"><img src="assets/hop.png" width="80" alt="Hop icon"></a></td>
+<td>
+<b><a href="https://github.com/kratos-respawned/hop">Hop</a></b>, a macOS launcher<br>
+App search, clipboard history, a calculator, a video downloader, an AirDrop shelf at the notch, and dev tools for ports, worktrees and whatever is heating the Mac. Each keystroke answers in under 0.3 ms. The whole app is 0.9 MB of Swift and AppKit with no dependencies.
+</td>
+</tr>
+<tr>
+<td width="110" align="center"><img src="assets/masks.png" width="80" alt="Masks icon"></td>
+<td>
+<b>Masks</b>, a browser where every tab wears a mask<br>
+Each tab has its own login identity, so two accounts on the same site sit side by side in one window. AI agents drive it through a CLI and an MCP server, and they see only the tabs they opened or the ones I share with them. It is Swift, AppKit and WebKit, runs in the App Sandbox, keeps passwords behind the Secure Enclave and sends no telemetry. Private repo.
+</td>
+</tr>
+<tr>
+<td width="110" align="center"><img src="assets/burrow.png" width="80" alt="Burrow icon"></td>
+<td>
+<b>Burrow</b>, a Finder replacement for developers<br>
+Folders list through <code>getattrlistbulk</code>, search runs on a memory-mapped index that skips <code>node_modules</code> and build folders, and the status bar shows the git branch and its sibling worktrees. It is also 0.9 MB with no dependencies. Private repo.
+</td>
+</tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+<a href="https://github.com/kratos-respawned/hop"><img src="https://raw.githubusercontent.com/kratos-respawned/hop/main/docs/download.jpg" width="720" alt="Hop downloading a YouTube video with a thumbnail preview"></a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### A private line between the apps
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kratos-respawned&show_icons=true&locale=en&layout=compact" alt="kratos-respawned" /></p>
+Masks can hand a download to Hop along with the site login it needs. That request travels over a small XPC protocol written for these apps. Each app checks the other's code signature for the same team, the hardened runtime and no debugger access, and the two exchange a one-time word before any request moves. No other process can pose as either app.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kratos-respawned&show_icons=true&locale=en" alt="kratos-respawned" /></p>
+## Vani
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kratos-respawned&" alt="kratos-respawned" /></p>
+A language model I am raising from scratch on my laptop, in one 870-line PyTorch file.
+
+- She was born as 2 layers of random weights and grew to 8 layers and 7.5 million parameters as she read more.
+- Every day ends in sleep, when she replays her memories in dreams and learns from them.
+- Seven hormone-like scores, dopamine, cortisol and curiosity among them, decide when she is tired, scared, or curious enough to pick her own book.
+- An exam of 226 questions she was never taught measures every change. She got 4 right on day 112 and gets about 182 now.
+
+## At PagarBook
+
+I work across the backend, the web app and the mobile apps. Recently I built the Form 16 signer, a Tauri desktop app that signs Form 16 PDFs in bulk with a Class 3 DSC USB token.
+
+Everything below the UI is Rust: PKCS#11 through `cryptoki`, CMS signatures on RustCrypto types, and a PDF incremental-update writer written by hand. A few wrong PINs lock a token for good, so every check that needs no PIN runs first, and one PIN entry signs the whole batch.
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=swift,rust,ts,react,nextjs,nodejs,postgres,cloudflare,pytorch,tauri" alt="Swift, Rust, TypeScript, React, Next.js, Node.js, Postgres, Cloudflare, PyTorch, Tauri">

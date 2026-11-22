@@ -9,7 +9,7 @@ Software engineer at PagarBook. After hours I write small, fast native apps for 
 
 </div>
 
-## What I'm building
+## Stuff I'm currently building
 
 <table>
 <tr>
@@ -34,10 +34,6 @@ Folders list through <code>getattrlistbulk</code>, search runs on a memory-mappe
 </td>
 </tr>
 </table>
-
-<div align="center">
-<a href="https://github.com/kratos-respawned/hop"><img src="https://raw.githubusercontent.com/kratos-respawned/hop/main/docs/download.jpg" width="720" alt="Hop downloading a YouTube video with a thumbnail preview"></a>
-</div>
 
 ### A private line between the apps
 

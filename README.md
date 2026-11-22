@@ -90,7 +90,7 @@ A language model I am raising from scratch on my laptop.
 <tr>
 <td width="25%" align="center" valign="top"><h3>2 to 8</h3>layers, grown as she read more</td>
 <td width="25%" align="center" valign="top"><h3>7.5M</h3>parameters</td>
-<td width="25%" align="center" valign="top"><h3>4 to 182</h3>right out of 226 exam questions she was never taught. 4 on day 112, about 182 now</td>
+<td width="25%" align="center" valign="top"><h3>4 to ~182</h3>right out of 226 on an exam she was never taught</td>
 <td width="25%" align="center" valign="top"><h3>870</h3>lines of PyTorch in one file</td>
 </tr>
 </table>

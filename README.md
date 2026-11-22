@@ -30,14 +30,14 @@ Each tab has its own login identity, so two accounts on the same site sit side b
 <td width="110" align="center"><img src="assets/burrow.png" width="80" alt="Burrow icon"></td>
 <td>
 <b>Burrow</b>, a Finder replacement for developers<br>
-Folders list through <code>getattrlistbulk</code>, search runs on a memory-mapped index that skips <code>node_modules</code> and build folders, and the status bar shows the git branch and its sibling worktrees. It is also 0.9 MB with no dependencies. Private repo.
+Folders list through native kernel calls, search runs on its own index that skips <code>node_modules</code> and build folders, and the status bar shows the git branch and its sibling worktrees. It is also 0.9 MB with no dependencies. Private repo.
 </td>
 </tr>
 </table>
 
 ### A private line between the apps
 
-Masks can hand a download to Hop along with the site login it needs. That request travels over a small XPC protocol written for these apps. Each app checks the other's code signature for the same team, the hardened runtime and no debugger access, and the two exchange a one-time word before any request moves. No other process can pose as either app.
+Masks can hand a download to Hop along with the site login it needs. That request travels over a private protocol written for these apps. Each app verifies the other's code signature before any request moves, so no other process can pose as either app.
 
 ## Vani
 
@@ -52,7 +52,7 @@ A language model I am raising from scratch on my laptop, in one 870-line PyTorch
 
 I work across the backend, the web app and the mobile apps. Recently I built the Form 16 signer, a Tauri desktop app that signs Form 16 PDFs in bulk with a Class 3 DSC USB token.
 
-Everything below the UI is Rust: PKCS#11 through `cryptoki`, CMS signatures on RustCrypto types, and a PDF incremental-update writer written by hand. A few wrong PINs lock a token for good, so every check that needs no PIN runs first, and one PIN entry signs the whole batch.
+Everything below the UI is low-level Rust that talks to the USB token, builds the digital signature and writes it into the PDF with a hand-written PDF writer. A few wrong PINs lock a token for good, so every check that needs no PIN runs first, and one PIN entry signs the whole batch.
 
 ## Tools
 
